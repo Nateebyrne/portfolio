@@ -1,7 +1,9 @@
 # mtm6201-portfolio
 # Web Development 2 Portfolio Project
 
-This is a portfolio project for the Web Development 2 class, showcasing the final UX design with minor adjustments. A copy of my figma file with the UX design will be added in brightspace upon submission.
+This is a portfolio project for the Web Development 2 class, showcasing the final UX design with minor adjustments. A copy of my figma file with the UX design will be linked below:
+
+https://www.figma.com/file/NK3IeP2AekYp6ivsi89cVQ/Untitled-(Copy)?type=design&node-id=0%3A1&mode=design&t=pg64972BcNMdf0RI-1
 
 ## Description
 
